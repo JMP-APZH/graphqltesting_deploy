@@ -1,17 +1,17 @@
 import { Link, routes } from '@redwoodjs/router'
 import { MetaTags } from '@redwoodjs/web'
 
-import React, { useEffect } from 'react';
-import { StyleSheet, View, Text } from 'react-native';
-import * as Contacts from 'expo-contacts';
+// import React, { useEffect } from 'react';
+// import { StyleSheet, View, Text } from 'react-native';
+// import * as Contacts from 'expo-contacts';
 
 
 // import EventEmitter from '../vendor/emitter/EventEmitter';
 // import type {IEventEmitter} from '../vendor/emitter/EventEmitter';
 
-import wheel_bw from './luckywheel_bw.png'
 import arrow_bw from './arrow_bw.png'
 import left_arrow from './left_arrow.png'
+import wheel_bw from './luckywheel_bw.png'
 import plus_black from './plus_black.jpg'
 
 import { FaUserPlus } from "react-icons/fa";
