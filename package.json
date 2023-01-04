@@ -24,11 +24,11 @@
   },
   "packageManager": "yarn@3.3.0",
   "dependencies": {
-    "@expo/webpack-config": "^0.17.3",
-    "expo": "^47.0.9",
-    "expo-cli": "^6.0.8",
-    "expo-contacts": "^11.0.1",
-    "expo-modules-core": "^1.0.4",
+    // "@expo/webpack-config": "^0.17.3",
+    // "expo": "^47.0.9",
+    // "expo-cli": "^6.0.8",
+    // "expo-contacts": "^11.0.1",
+    // "expo-modules-core": "^1.0.4",
     "react-icons": "^4.7.1",
     "react-native": "^0.70.6",
     "react-native-web": "^0.18.10"
